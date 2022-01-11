@@ -4,7 +4,7 @@
 <ul>
 <li> 🔥 I code for cash. </li>
 <li> 🤝 I'm looking to collaborate with projects of other creators (Maybe). </li>
-<li> ✨ Fun fact: I'm so bad playing LOL </li>
+<li> ✨ Fun fact: I'm a very bad LOL player</li>
  </ul>
  </div>
 <h1></h1>
