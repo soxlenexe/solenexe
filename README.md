@@ -3,8 +3,6 @@
 <div align="left">
  <ul>
   <li> 🔥 I code for cash. </li>
-  <li> 🤝 I'm looking to collaborate with projects of other creators (Maybe). </li>
-  <li> ✨ Fun fact: I'm a very bad LOL player</li>
  </ul>
 </div>
 
